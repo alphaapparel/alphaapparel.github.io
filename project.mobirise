@@ -43,7 +43,16 @@
     "versionPublish": "5.8.14",
     "imageResize": true,
     "publishChangesOnly": false,
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": false,
+    "mbrsiteDomain": "alphaapparel",
+    "usedWebp": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
