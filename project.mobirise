@@ -518,10 +518,11 @@
         }
       ]
     },
-    "page1.html": {
+    "1.html": {
       "settings": {
         "title": "Merch",
-        "order": "1"
+        "order": "1",
+        "meta_descr": ""
       },
       "components": [
         {
