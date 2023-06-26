@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "alpha Apperal",
-    "currentPage": "page1.html",
+    "currentPage": "1.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -518,7 +518,7 @@
         }
       ]
     },
-    "page1.html": {
+    "1.html": {
       "settings": {
         "title": "Merch",
         "order": "1",
